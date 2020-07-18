@@ -4,8 +4,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="author" content="Ali Iktider Sayam">
-	<title>Generate Handwritten PDF - Sayam</title>
+	<meta name="author" content="Abhinav Dwarkani">
+	<title>Generate Handwritten PDF - Abhinav</title>
 
 
 	<link href="index.css" rel="stylesheet">
@@ -45,7 +45,7 @@
 
   <footer>
     <div class="container footer">
-    	<p >Developed By: "Ali Iktider Sayam"</p>
+    	<p >Developed By: "Abhinav Dwarkani"</p>
       <p >Copyright &copy; 2020</p>
     </div>
   </footer>
