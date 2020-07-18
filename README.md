@@ -1,10 +1,9 @@
 <h1 align="center"> Text to Handwriting Conversion Utility Through <b>PYTHON</b> Script </h1>
-<h4 align="center"> A streamlined Approach to <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file"> Sharanya's</a> project<h4>
+
   
-  <p>
-  This project was developed to streamline the process of <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file"> Sharanya's</a> python script that converts a .txt file to a handwritten PDF. However, I have taken the liberty to upload my own handwriting and built a VERY simple utility that would convert any .txt file to my handwritten PDF.
  
-  </p> <br>
+ 
+ 
   
 #Workings:
   - This Utility executes the python script on the server itself.
@@ -31,7 +30,7 @@
 
 #How To Setup:
   - Clone my repo in your server folder (I used my localhost).
-  - In that folder install the necessary environmental dependencies according to the instructions provided <a href="https://github.com/sharanya02/Text-file-to-handwritten-pdf-file/blob/master/README.md"> HERE </a>. (JUST THE PRE-REQUISITES) 
+  - In that folder install the necessary environmental dependencies according to the instructions provided 
   - Note that you dont need to download the files in the python repo should you choose to clone mine. JUST FOLLOW THE INSTRUCTIONS TO INSTALL THE PRE-REQUISITES.
   - Run the index.html file (in case of localhost).
  
@@ -42,5 +41,4 @@ I am NOT uploading this to a proper server with all the added functionalities be
 Please use it at your own discretion.
 <br>
 <br>
-<h1 align="center"> Check Out The Demo Video <a href="https://youtu.be/SVvnH6wB_TU">HERE</a></h1>
 
